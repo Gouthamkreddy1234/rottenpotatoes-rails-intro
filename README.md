@@ -1,4 +1,4 @@
-# RottenPotatoes demo app: getting started
+# RottenPotatoes demo app: getting started - Ruby on Rails Sample Project
 
 This app is associated with the free [online
 course](http://www.saas-class.org) and (non-free)
